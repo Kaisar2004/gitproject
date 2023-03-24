@@ -2,3 +2,7 @@ h1{
   color: red;
   background: black;
 }
+
+body {
+  max-width: 1200px;
+}
