@@ -3,6 +3,11 @@ h1{
   background: yellow;
 }
 
+span {
+  color: red;
+  background: white;
+}
+
 body {
   max-width: 1200px;
   color: blue;
